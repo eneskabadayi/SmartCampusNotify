@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124898807552",
+    "project_id": "akillikampus-754dd",
+    "storage_bucket": "akillikampus-754dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124898807552:android:faccf4717cd4ef7c3f6de5",
+        "android_client_info": {
+          "package_name": "com.example.smartcampusnotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJoE29aWRxMg-g866LJeehsib5B0zDJ2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
